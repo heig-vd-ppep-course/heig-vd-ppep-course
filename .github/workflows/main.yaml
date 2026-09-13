@@ -37,7 +37,7 @@ jobs:
       - name: Generate printable documents with Pandoc
         uses: docker://pandoc/latex:3.7
         with:
-          entrypoint: bash
+          entrypoint: sh
           args: generate-documents.sh
 
       - name: Upload files

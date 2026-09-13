@@ -91,8 +91,8 @@ docker run \
 
   \vspace{0.5cm}
 
-  Gardez-le avec vous du lundi au vendredi. Vous le remplissez en trois temps :
-  lundi soir, mardi soir et vendredi.
+  Vous le remplissez en trois temps : lundi soir, mardi soir et vendredi.
+  Remettez-le aux personnes qui enseignent après chaque étape.
 
   \vspace{0.5cm}
 
@@ -109,12 +109,12 @@ docker run \
 Ce document se remplit en trois temps.
 
 1. **Lundi en fin de journée** : vous posez deux objectifs individuels et un
-   objectif de groupe. Ce sont des choses que vous aimeriez explorer pendant la
-   semaine.
+  objectif de groupe. Ce sont des choses que vous aimeriez explorer pendant la
+  semaine, puis vous remettez le document aux personnes qui enseignent.
 2. **Mardi en fin de journée** : vous relisez vos objectifs, vous les ajustez si
-   nécessaire et vous en ajoutez un troisième.
+  nécessaire et vous en ajoutez un troisième, puis vous remettez le document.
 3. **Vendredi** : vous reprenez chaque objectif, vous dites où vous en êtes et
-   vous écrivez ce que vous avez appris.
+  vous écrivez ce que vous avez appris, puis vous remettez le document.
 
 Un objectif utile est un objectif que vous pouvez observer. « Mieux parler en
 public » n'est pas observable ; « tenir deux minutes sans dire euh » ou « oser

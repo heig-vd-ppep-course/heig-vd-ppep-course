@@ -2,8 +2,8 @@
 
 L'auto-évaluation compte pour 50 % de la note finale.
 
-Elle se remplit sur une feuille papier distribuée le lundi et gardée toute la
-semaine. Le document source est
+Elle se remplit sur une feuille papier distribuée le lundi et remise aux
+personnes qui enseignent après chaque étape. Le document source est
 [AUTO_EVALUATION.md](./impressions/AUTO_EVALUATION.md) et le PDF imprimable est
 généré par le script `generate-documents.sh` à la racine du dépôt.
 
@@ -13,11 +13,11 @@ Le document se remplit en trois temps.
 
 1. Lundi en fin de journée : deux objectifs individuels et un objectif de
    groupe, avec pour chacun ce que la personne veut explorer, pourquoi, et
-   comment elle saura qu'elle a progressé.
+   comment elle saura qu'elle a progressé, puis remise du document.
 2. Mardi en fin de journée : relecture et ajustement des objectifs du lundi,
-   puis ajout d'un troisième objectif individuel.
+   puis ajout d'un troisième objectif individuel, puis remise du document.
 3. Vendredi : reprise de chaque objectif, état d'atteinte argumenté par des
-   faits concrets, puis bilan de ce qui a été appris.
+   faits concrets, puis bilan de ce qui a été appris et remise du document.
 
 ## Critères d'évaluation
 

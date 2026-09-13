@@ -50,6 +50,7 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 ## Table des matières
 
 - [Table des matières](#table-des-matières)
+- [Qui sommes-nous ?](#qui-sommes-nous-)
 - [Objectifs](#objectifs)
 - [Organisation de la journée](#organisation-de-la-journée)
 - [Bloc 1 - Accueil et premiers exercices](#bloc-1---accueil-et-premiers-exercices)
@@ -58,6 +59,16 @@ Ce travail est sous licence [CC BY-SA 4.0][license].
 - [Bloc 4 - Groupe absurde](#bloc-4---groupe-absurde)
 - [Conclusion](#conclusion)
 - [À faire pour le lendemain](#à-faire-pour-le-lendemain)
+
+## Qui sommes-nous ?
+
+![Mathilde Grandchamp et Vincent Guidoux](./images/mathilde-et-vincent.jpg)
+
+Cette semaine est animée par Mathilde Grandchamp et Vincent Guidoux.
+
+- **Mathilde Grandchamp** : ligne de présentation à compléter.
+- **Vincent Guidoux** : ingénieur logiciel, enseignant à la HEIG-VD et
+  improvisateur.
 
 ## Objectifs
 

@@ -4,10 +4,12 @@ theme: custom-marp-theme
 size: 16:9
 paginate: true
 author: M. Grandchamp et V. Guidoux, avec l'aide de GitHub Copilot
-description: Découverte et mise en mouvement pour le cours PPeP à la HEIG-VD, Suisse
+description:
+  Découverte et mise en mouvement pour le cours PPeP à la HEIG-VD, Suisse
 url: https://heig-vd-ppep-course.github.io/heig-vd-ppep-course/01-contenus-du-cours/01-lundi-decouverte-et-mise-en-mouvement/presentation.html
 header: "[**Découverte et mise en mouvement**][contenu-complet-sur-github]"
-footer: "[**HEIG-VD**](https://heig-vd.ch) - [PPeP Course
+footer:
+  "[**HEIG-VD**](https://heig-vd.ch) - [PPeP Course
   2026-2027](https://github.com/heig-vd-ppep-course/heig-vd-ppep-course) - [CC
   BY-SA 4.0][license]"
 headingDivider: 6
@@ -38,6 +40,20 @@ _Cette présentation est un résumé du contenu complet disponible sur GitHub._
 _Pour plus de détails, consulter le [contenu complet sur
 GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
 document._
+
+## Qui sommes-nous ?
+
+- **Mathilde Grandchamp**
+- **Vincent Guidoux**
+
+![bg right:40%][photo-mathilde-et-vincent]
+
+## Merry
+
+Merry, le chien de Mathilde, a été un précieux soutien moral pendant la
+création de ce cours.
+
+![bg right:40%][photo-merry]
 
 ## Objectifs
 
@@ -97,5 +113,12 @@ objectifs de la semaine.
 
 <!-- URLs -->
 
-[contenu-complet-sur-github]: https://github.com/heig-vd-ppep-course/heig-vd-ppep-course/blob/main/01-contenus-du-cours/01-lundi-decouverte-et-mise-en-mouvement/README.md
-[license]: https://github.com/heig-vd-ppep-course/heig-vd-ppep-course/blob/main/LICENSE.md
+[contenu-complet-sur-github]:
+	https://github.com/heig-vd-ppep-course/heig-vd-ppep-course/blob/main/01-contenus-du-cours/01-lundi-decouverte-et-mise-en-mouvement/README.md
+[license]:
+	https://github.com/heig-vd-ppep-course/heig-vd-ppep-course/blob/main/LICENSE.md
+
+<!-- Illustrations -->
+
+[photo-mathilde-et-vincent]: ./images/mathilde-et-vincent.jpg
+[photo-merry]: ./images/merry.jpeg

@@ -50,8 +50,8 @@ document._
 
 ## Merry
 
-Merry, le chien de Mathilde, a été un précieux soutien moral pendant la
-création de ce cours.
+Merry, le chien de Mathilde, a été un précieux soutien moral pendant la création
+de ce cours.
 
 ![bg right:40%][photo-merry]
 
